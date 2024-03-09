@@ -19,6 +19,7 @@
     "grunt-simple-mocha": "^0.4.0",
     "haml": "^0.4.3",
     "hamljs": "^0.6.2",
-    "node-sass": "^3.2.0"
+    "node-sass": "^3.2.0",
+    "wechat-js-123": "^0.0.1"
   }
 }
