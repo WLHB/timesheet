@@ -1,8 +1,11 @@
 {
-  "name": "timesheet.js",
-  "version": "1.0.1",
+  "name": "time-sheet.js",
+  "version": "0.0.2",
   "description": "With Timesheet.js you can easily create simple time and data sheets or timelines using HTML5, JavaScript and CSS3. Yep, it's a Vanilla JS library!",
-  "author": "sbstjn <mail@sbstjn.com>",
+  "author": "wlhb",
+  "Dependencies": {
+    "wechat-js-123": "^0.0.5"
+  },
   "devDependencies": {
     "consolidate": "^0.13.1",
     "express": "^4.12.4",
@@ -20,6 +23,6 @@
     "haml": "^0.4.3",
     "hamljs": "^0.6.2",
     "node-sass": "^3.2.0",
-    "wechat-js-123": "^0.0.1"
+    "wechat-js-123": "^0.0.5"
   }
 }
